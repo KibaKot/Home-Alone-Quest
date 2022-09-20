@@ -1,0 +1,179 @@
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+*,*:before,*:after{
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+
+nav,footer,header,aside{display: block;}
+
+html,body{
+	height: 100%;
+	width: 100%;
+	font-size: 100%;
+	line-height: 1;
+	font-size: 14px;
+	-ms-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+input,button,textarea{font-family:inherit;}
+
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner {padding:0;border:0;}
+a, a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li{list-style: none;}
+img{vertical-align: top;}
+
+h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
+
+.bcg{
+    width: 100%;
+    background-image: url('img/Home-Alone-Airbnb-01-Exterior-Credit-Sarah-Crowley.jpg');
+    background: url('img/Home-Alone-Airbnb-01-Exterior-Credit-Sarah-Crowley.jpg') center no-repeat;
+    background: url('img/Home-Alone-Airbnb-01-Exterior-Credit-Sarah-Crowley.jpg') 0 0/cover no-repeat;
+    background-size: 100% auto;
+}
+
+.link1 {
+    width: 13.8%;
+    margin: 38% 35% 1% 43.1%;
+	opacity: 0;
+}
+
+.link1:hover {
+	opacity: 1;
+}
+
+.bcg2{
+    width: 100%;
+    background-image: url('img/дворик.jpg');
+    background: url('img/дворик.jpg') center no-repeat;
+    background: url('img/дворик.jpg') 0 0/cover no-repeat;
+    background-size: 100% auto;
+}
+
+.link2 {
+    width: 15.7%;
+    margin: 10% 30% 1% 42.5%;
+	opacity: 0;
+}
+
+.link2:hover {
+	opacity: 1;
+}
+
+.link3 {
+    width: 35%;
+    margin: 0.1% 30% 0% 32.5%;
+	opacity: 0;
+}
+
+.link3:hover {
+	opacity: 1;
+}
+
+.bcg3{
+    width: 100%;
+    background-image: url('img/сходи.jpg');
+    background: url('img/сходи.jpg') center no-repeat;
+    background: url('img/сходи.jpg') 0 0/cover no-repeat;
+    background-size: 100% auto;
+}
+
+.link4 {
+    width: 26.5%;
+    margin: 37% 1% 0% 48.2%;
+	opacity: 0;
+}
+
+.link4:hover {
+	opacity: 1;
+}
+
+.link5 {
+    width: 6.5%;
+    margin-top: 46%;
+	margin-left: 9.8%;
+	opacity: 0;
+}
+
+.link5:hover {
+	opacity: 1;
+}
+
+.line {
+	display: inline;
+}
+
+.bcg4 {
+	width: 100%;
+    background-image: url('img/финал.jpg');
+    background: url('img/финал.jpg') center no-repeat;
+    background: url('img/финал.jpg') 0 0/cover no-repeat;
+    background-size: 100% auto;
+}
+
+.link6 {
+    width: 25%;
+    margin: 26% 35% 0% 0%;
+	opacity: 0;
+}
+
+.link6:hover {
+	opacity: 1;
+}
+
+.bcg5 {
+	width: 100%;
+    background-image: url('img/комната\ Базза.jpg');
+    background: url('img/комната\ Базза.jpg') center no-repeat;
+    background: url('img/комната\ Базза.jpg') 0 0/cover no-repeat;
+    background-size: 100% auto;
+}
+
+.link7 {
+    width: 12.5%;
+    margin: 21% 35% 0% 26%;
+	opacity: 0;
+}
+
+.link7:hover {
+	opacity: 1;
+}
+
+.link8 {
+    width: 27.3%;
+    margin: 20.7% 35% 0% 21.7%;
+	opacity: 0;
+}
+
+.link8:hover {
+	opacity: 1;
+}
+
+.bcg6 {
+	width: 100%;
+    background-image: url('img/сходи\ 2.jpg');
+    background: url('img/сходи\ 2.jpg') center no-repeat;
+    background: url('img/сходи\ 2.jpg') 0 0/cover no-repeat;
+    background-size: 100% auto;
+}
+
+.link9 {
+    width: 27.3%;
+    margin-left: 48.2%;
+	opacity: 0;
+}
+
+.link9:hover {
+	opacity: 1;
+}
